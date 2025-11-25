@@ -85,8 +85,8 @@ keyboard = InlineKeyboardMarkup(
             InlineKeyboardButton(text="⌯ Mr Chouhan ×͜× |", url="tg://openmessage?user_id=8050673236"),
         ],
         [
-            InlineKeyboardButton(text="चौहान 🦅", callback_data="tg://openmessage?user_id=@Chouhsnextractor_bot"),
-            InlineKeyboardButton(text="🦋", callback_data="@Chouhsnextractor_bot"),
+            InlineKeyboardButton(text="𓍯✮⃝mrचौहान✮⃝🚩", callback_data="tg://openmessage?user_id=@Chouhsnextractor_bot"),
+            InlineKeyboardButton(text="𓍯✮⃝mr𝕮𝖍o𝖚𝖍𝖆𝖓✮⃝🚩⚝", callback_data="@Chouhsnextractor_bot"),
         ],
     ]
 )
