@@ -78,11 +78,11 @@ async def show_random_emojis(message):
     return emoji_message
 
 # Inline keyboard for start command
-BUTTONSCONTACT = InlineKeyboardMarkup([[InlineKeyboardButton(text="👨‍💻 Owner", url="tg://openmessage?user_id=8050673236")]])
+BUTTONSCONTACT = InlineKeyboardMarkup([[InlineKeyboardButton(text="👨‍💻 Owner", url="tg://openmessage?user_id=8136984784")]])
 keyboard = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton(text="⌯ Mr Chouhan ×͜× |", url="tg://openmessage?user_id=8050673236"),
+            InlineKeyboardButton(text="⌯ Mr Chouhan ×͜× |", url="tg://openmessage?user_id=8136984784"),
         ],
         [
             InlineKeyboardButton(text="𓍯✮⃝mrचौहान✮⃝🚩", callback_data="tg://openmessage?user_id=@Chouhsnextractor_bot"),
@@ -622,7 +622,7 @@ async def txt_handler(bot: Client, m: Message):
     raw_text3 = input3.text
     await input3.delete(True)
     if raw_text3 == '1':
-        CR = '[𓍯✮⃝mrचौहान✮⃝🚩⚝](tg://openmessage?user_id=8050673236)'
+        CR = '[𓍯✮⃝mrचौहान✮⃝🚩⚝](tg://openmessage?user_id=8136984784)'
     else:
         CR = raw_text3
 
@@ -924,7 +924,7 @@ async def txt_handler(bot: Client, m: Message):
                            f"┃ 🖇️ **ᴀᴘɪ ᴜʀʟ**: <a href='{url}'>ᴀᴘɪ ʟɪɴᴋ</a>\n" \
                            f"━━━━━━━━━━━━━━━━━━━━━━━\n" \
                            f"🛑 **sᴇɴᴅ** /stop **ᴛᴏ ᴄᴀɴᴄᴇʟ**\n\n" \
-                           f"╰━━━━━✦𝐵𝑜𝓉 𝓂𝒶𝒹𝑒 𝒷𝓎✦Mr.Chouhan🦅"
+                           f"╰━━━━━✦𝐵𝑜𝓉 𝓂𝒶𝒹𝑒 𝒷𝓎✦ [𓍯✮⃝mrचौहान✮⃝🚩⚝](tg://openmessage?user_id=8136984784)"
 
                     prog = await m.reply_text(Show, disable_web_page_preview=True)
                     try:
@@ -970,7 +970,7 @@ async def txt_handler(bot: Client, m: Message):
                            f"┃ 🖇️ **ᴀᴘɪ ᴜʀʟ**: <a href='{url}'>ᴀᴘɪ ʟɪɴᴋ</a>\n" \
                            f"━━━━━━━━━━━━━━━━━━━━━━━\n" \
                            f"🛑 **sᴇɴᴅ** /stop **ᴛᴏ ᴄᴀɴᴄᴇʟ**\n\n" \
-                           f"**╰━━━━━✦𝐵𝑜𝓉 𝓂𝒶𝒹𝑒 𝒷𝓎✦Mr.Chouhan🦅**"
+                           f"**╰━━━━━✦𝐵𝑜𝓉 𝓂𝒶𝒹𝑒 𝒷𝓎✦ [𓍯✮⃝mrचौहान✮⃝🚩⚝](tg://openmessage?user_id=8136984784)**"
 
                     prog = await m.reply_text(Show, disable_web_page_preview=True)
                     try:
@@ -1016,7 +1016,7 @@ async def txt_handler(bot: Client, m: Message):
                            f"┃ 🖇️ **ᴀᴘɪ ᴜʀʟ**: <a href='{url}'>ᴀᴘɪ ʟɪɴᴋ</a>\n" \
                            f"━━━━━━━━━━━━━━━━━━━━━━━\n" \
                            f"🛑 **sᴇɴᴅ** /stop **ᴛᴏ ᴄᴀɴᴄᴇʟ**\n\n" \
-                           f"╰━━━━━ ✦𝐵𝑜𝓉 𝓂𝒶𝒹𝑒 𝒷𝓎✦Mr.Chouhan🦅"
+                           f"╰━━━━━ ✦𝐵𝑜𝓉 𝓂𝒶𝒹𝑒 𝒷𝓎✦ [𓍯✮⃝mrचौहान✮⃝🚩⚝](tg://openmessage?user_id=8136984784)"
                     
                     prog = await m.reply_text(Show, disable_web_page_preview=True)
                     try:
