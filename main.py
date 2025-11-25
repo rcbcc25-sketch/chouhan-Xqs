@@ -622,7 +622,7 @@ async def txt_handler(bot: Client, m: Message):
     raw_text3 = input3.text
     await input3.delete(True)
     if raw_text3 == '1':
-        CR = '[꧁༒☬🦋✨⚔️MR.चौहान ⚔️✨🦋☬༒꧂ ](tg://openmessage?user_id=8050673236)'
+        CR = '[𓍯✮⃝mrचौहान✮⃝🚩⚝](tg://openmessage?user_id=8050673236)'
     else:
         CR = raw_text3
 
